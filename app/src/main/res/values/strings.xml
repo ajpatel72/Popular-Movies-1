@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="param_poster_size">w185</string>
+    <string name="param_backdrop_size">w780</string>
+
+    <string name="pref_key_sort">pref_sort</string>
+    <string name="default_pref">popularity.desc</string>
+
+    <string name="menu_sort">Sorting</string>
+    <string name="menu_sort_popularity">Popularity</string>
+    <string name="menu_sort_rating">Rating</string>
+
+    <string name="title_activity_details">Details Activity</string>
+
+    <string name="released">Released:</string>
+    <string name="plot">Plot:</string>
+
+</resources>
