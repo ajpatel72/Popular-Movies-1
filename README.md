@@ -30,7 +30,8 @@ Please obtain a '[The Movie DB' API key](https://www.themoviedb.org/faq/api) and
 
 ### Phone
 
-<img src="https://github.com/ajpatel72/Popular-Movies-1/blob/master/screenshots/phone/phone_port_master.png" height="640" width="360">    |    <img src="https://github.com/ajpatel72/PopularMovies/blob/master/screenshots/phone/phone_port_details.png" height="640" width="360">
+<img src="https://github.com/ajpatel72/Popular-Movies-1/blob/master/screenshots/phone/phone_port_master.png" height="640" width="360">    |    
+<img src="https://github.com/ajpatel72/Popular-Movies-1/blob/master/screenshots/phone/phone_port_details.png" height="640" width="360">
 
 
 
